@@ -1,4 +1,4 @@
-package io.gorillas.order.generator.config;
+package io.gorillas.order.generator.config; 
 
 import java.util.concurrent.ThreadLocalRandom;
 
